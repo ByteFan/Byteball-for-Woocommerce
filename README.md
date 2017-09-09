@@ -24,4 +24,4 @@ That's all !
 https://byteball.slack.com/messages/C6M5SHMAA/
 
 ## screenshots
-![Admin Panel](../../../screenshots/screenshot-admin.png?raw=true "Admin panel")
+![Admin Panel](../../../blob/screenshots/screenshot-admin.png?raw=true "Admin panel")
