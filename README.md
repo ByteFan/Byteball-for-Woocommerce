@@ -1,5 +1,5 @@
 # Byteball-for-Woocommerce
-Byteball plugin to Woocommerce, the best eCommerce Platform for WordPress
+Byteball plugin to Woocommerce, the best eCommerce Platform for WordPress.
 
 ## Main features
 - powered by byteball-for-merchants payment gateway,
@@ -8,7 +8,7 @@ Byteball plugin to Woocommerce, the best eCommerce Platform for WordPress
 - anonymous : no api key needed,
 - extremely simplified setup,
 - include a woocommerce integrated optional debugging tool,
-- compatible with other woocommerce gateways.
+- compatible with others Woocommerce gateways.
 
 ## Install
 - download byteball-for-woocommerce-vx.xx.zip file
