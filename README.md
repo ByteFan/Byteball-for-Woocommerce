@@ -27,5 +27,9 @@ https://byteball.slack.com/messages/C6M5SHMAA/
 Admin panel:
 ![Admin Panel](../../../screenshots/blob/master/screenshot-admin.png?raw=true "Admin panel")
 
-Customer panel
+
+
+
+
+Customer panel:
 ![Customer Panel](../../../screenshots/blob/master/screenshot-paybutton.png?raw=true "Customer panel")
