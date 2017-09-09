@@ -7,7 +7,7 @@ Byteball plugin to Woocommerce, the best eCommerce Platform for WordPress.
 - multi-currency (Bytes, BTC, EUR, USD),
 - anonymous : no api key needed,
 - extremely simplified setup,
-- include the Woocommerce integrated optional debugging tool,
+- includes the Woocommerce integrated optional debugging tool,
 - compatible with others Woocommerce gateways.
 
 ## Install
