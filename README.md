@@ -19,3 +19,6 @@ Byteball plugin to Woocommerce, the best eCommerce Platform for WordPress
     3) go to 'Woocommerce / byteball payments' to set up and enable byteball payments
    
 That's all !
+
+## support
+https://byteball.slack.com/messages/C6M5SHMAA/
