@@ -4,7 +4,7 @@ Byteball plugin to Woocommerce, the best eCommerce Platform for WordPress.
 ## Main features
 - powered by byteball-for-merchants payment gateway,
 - fully integrates Byteball cashback program,
-- multi-currency (Bytes, BTC, EUR, USD),
+- multi-currencies (Bytes, BTC, EUR, USD, AUD, BRL, CAD, CHF, CLP, CNY, DKK, GBP, HKD, INR, ISK, JPY, KRW, NZD, PLN, RUB, SEK, SGD, THB, TWD),
 - anonymous : no api key needed,
 - extremely simplified setup,
 - includes the Woocommerce integrated optional debugging tool,
