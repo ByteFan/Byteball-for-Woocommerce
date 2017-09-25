@@ -11,16 +11,7 @@ Byteball plugin to Woocommerce, the best eCommerce Platform for WordPress.
 - compatible with others Woocommerce gateways.
 
 ## Install
-Get it from https://wordpress.org/plugins/woobytes-gateway/ OR
-
-- download byteball-for-woocommerce-vx.xx.zip file
-
-- from your wordpress site admin dashboard :
-    1) plugin / add new / upload plugin
-    2) activate 'byteball-for-merchants' plugin
-    3) go to 'Woocommerce / byteball payments' to set up and enable byteball payments
-   
-That's all !
+Install from https://wordpress.org/plugins/woobytes-gateway/ 
 
 ## support
 https://byteball.slack.com/messages/C6M5SHMAA/
