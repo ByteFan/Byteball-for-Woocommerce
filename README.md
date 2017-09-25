@@ -11,6 +11,8 @@ Byteball plugin to Woocommerce, the best eCommerce Platform for WordPress.
 - compatible with others Woocommerce gateways.
 
 ## Install
+Get it from https://wordpress.org/plugins/woobytes-gateway/ OR
+
 - download byteball-for-woocommerce-vx.xx.zip file
 
 - from your wordpress site admin dashboard :
